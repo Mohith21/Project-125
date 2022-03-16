@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 8px 8px 8px grey;
+}
+.n
+{
+font-size: 15px;
+color:darkred;
+}
+
+body
+{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+#foot
+{
+    position: fixed;
+    width: 100%;
+    background-color: darkslategrey;
+    color: darkkhaki;
+    text-align: center;
+    bottom: 0;
+    line-height: 3;
+    font-size: 28px;
+}
